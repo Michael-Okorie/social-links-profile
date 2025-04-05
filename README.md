@@ -40,8 +40,8 @@ Users should be able to:
 
 ### 🔗 Links
 
-- 💻 **Solution URL:** [View code on GitHub](https://your-solution-url.com)
-- 🌐 **Live Site URL:** [Check out the live site](https://your-live-site-url.com)
+- 💻 **Solution URL:** [View code on GitHub](https://github.com/Michael-Okorie/social-links-profile.git)
+- 🌐 **Live Site URL:** [Check out the live site](https://michael-okorie.github.io/social-links-profile/)
 
 ---
 
